@@ -6,16 +6,16 @@ This repository contains sample UI assets, including screenshots and video recor
 
 - `screenshots/`  
   Contains PNG images of various UI screens or states. These are useful for static documentation or quick reference.
-  - `BestEgg_debt_goal.PNG` — Screenshot of the debt goal screen.
-  - `BestEgg_paydownPlan_m1.PNG` — Screenshot of the paydown plan.
-  - `BestEgg_paydownPlan_m2.PNG` — Screenshot of the paydown plan.
+  - [`BestEgg_debt_goal.PNG`](screenshots/BestEgg_debt_goal.PNG) — Screenshot of the debt goal screen.
+  - [`BestEgg_paydownPlan_m1.PNG`](screenshots/BestEgg_paydownPlan_m1.PNG) — Screenshot of the paydown plan.
+  - [`BestEgg_paydownPlan_m2.PNG`](screenshots/BestEgg_paydownPlan_m2.PNG) — Screenshot of the paydown plan.
 
 - `video_samples/`  
   Contains video recordings (MOV format) demonstrating UI flows on both desktop and mobile platforms.
-  - `desktop_debt_overview.mov` — Desktop UI: Debt overview flow.
-  - `desktop_debt_paydown.mov` — Desktop UI: Debt paydown flow.
-  - `mobile_debt_overview.mov` — Mobile UI: Debt overview flow.
-  - `mobile_debt_paydown.mov` — Mobile UI: Debt paydown flow.
+  - [`desktop_debt_overview.mov`](video_samples/desktop_debt_overview.mov) — Desktop UI: Debt overview flow.
+  - [`desktop_debt_paydown.mov`](video_samples/desktop_debt_paydown.mov) — Desktop UI: Debt paydown flow.
+  - [`mobile_debt_overview.mov`](video_samples/mobile_debt_overview.mov) — Mobile UI: Debt overview flow.
+  - [`mobile_debt_paydown.mov`](video_samples/mobile_debt_paydown.mov) — Mobile UI: Debt paydown flow.
 
 ## Usage
 
